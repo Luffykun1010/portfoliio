@@ -165,12 +165,13 @@ body {
         margin-bottom: 2vh;
     }
     .img1{
-        width: 100%;
-        height: 75vh;   
-        margin: 4vh 0 10vh 2vh;
+        display: none;
     }
     .buts button{
-        margin: 1vh 0 2vh 0;
+        margin: 1vh 0 7vh 0;
+    }
+    .idname{
+        margin-left: 2.5vh;
     }
 }
 
@@ -309,7 +310,7 @@ body {
 
 .idname {
     color: antiquewhite;
-    margin-top: 5vh;
+    margin-top: 3vh;
     opacity: 0.4;
     font-family: "Mina";
     font-size: 12pt;
