@@ -167,7 +167,7 @@ body {
     .img1{
         width: 100%;
         height: 75vh;   
-        margin: 4vh 0 10vh 5vh;
+        margin: 4vh 0 10vh 2vh;
     }
     .buts button{
         margin: 1vh 0 2vh 0;
@@ -250,6 +250,7 @@ body {
 .resume:hover {
     background: #287183;
     color: #f9f9f9;
+    border: none;
 }
 
 #projects {
